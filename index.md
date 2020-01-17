@@ -4,6 +4,18 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Dolibarr v10.0.6 - Stored XSS [constname parameter]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vendor : [https://www.dolibarr.org/](https://www.dolibarr.org/)
+
+CVE : N/A
+
+Version : 10.0.6
+
+Description: In this version of the Dolibarr ERP - CRM program is allows Stored XSS by placing a payload in the "constname" parameter field in other setup page.
+
+
+![alt text](https://github.com/tufangungor/tufangungor.github.io/parameter.png "Constname parameter")
+
+![alt text](https://github.com/tufangungor/tufangungor.github.io/payload.png "Payload and alert box.")
+
