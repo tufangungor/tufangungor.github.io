@@ -5,8 +5,8 @@ permalink: /0days
 ---
 
 # Dolibarr - Mutliple XSS 
-# Version : \10.0.6
-# Date: \17.01.2020
+# Version : 10.0.6
+# Date: 17.01.2020
 # Vendor : [https://www.dolibarr.org/](https://www.dolibarr.org/)
 # CVE : N/A
 
