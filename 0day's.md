@@ -1,7 +1,7 @@
 ---
 title: 0day's
-layout: home
-permalink: /
+layout: page
+permalink: /0days
 ---
 
 # Dolibarr v10.0.6 - Stored XSS [constname parameter]
