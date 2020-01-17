@@ -15,7 +15,7 @@ Version : 10.0.6
 Description: In this version of the Dolibarr ERP - CRM program is allows Stored XSS by placing a payload in the "constname" parameter field in other setup page.
 
 
-![alt text](https://github.com/tufangungor/tufangungor.github.io/blob/master/parameter.png "Constname parameter")
+!![Parameter](parameter.png)
 
-![alt text](https://github.com/tufangungor/tufangungor.github.io/blob/master/payload.png "Payload and alert box.")
+!![Payload](payload.png)
 
