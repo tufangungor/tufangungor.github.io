@@ -84,6 +84,10 @@ a:hover {
 		font-size: 12px !important
 	}
 }
+@media only screen and (max-device-width: 500px) {
+	.span {
+		font-size: 12px !important
+	}
 
 .container {
 	width: 90%;
