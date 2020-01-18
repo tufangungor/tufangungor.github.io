@@ -78,12 +78,22 @@ a:hover {
 .primary-text {
 	color: var(--primary-color)
 }
+.logo {
+	text-align: center;
+	display:block;
+	line-height:8px; 
+	font-size: 8px; 
+	font-weight:bold;
+	white-space:pre;
+	font-family: monospace;
+	color: white; 
+	background: black;
 
 @media only screen and (max-device-width: 500px) {
 	*:not(.logo) {
 		font-size: 12px !important
 	}
-	span{
+	.logo{
 		font-size: 6px;
 		line-height: 5px;
 	}
