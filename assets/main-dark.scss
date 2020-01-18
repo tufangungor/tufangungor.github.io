@@ -80,7 +80,7 @@ a:hover {
 }
 
 @media only screen and (max-device-width: 500px) {
-	not(.span) {
+	*:not(.span) {
 		font-size: 12px !important
 	}
 }
