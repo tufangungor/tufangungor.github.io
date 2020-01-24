@@ -4,7 +4,7 @@ layout: page
 permalink: /0days
 ---
 
-# Dolibarr - Mutliple XSS 
+# Dolibarr - Multiple XSS 
 # Version : 10.0.6
 # Date: 17.01.2020
 # Vendor : [https://www.dolibarr.org/](https://www.dolibarr.org/)
