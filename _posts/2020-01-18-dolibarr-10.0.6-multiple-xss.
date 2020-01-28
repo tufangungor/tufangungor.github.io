@@ -1,0 +1,8 @@
+---
+layout:     page
+title:      DOLIBARR ERP/CRM - Brute Force Vulnerability
+date:       2020-01-18
+author:     "Tufan Gungor"
+permalink:  /0days
+tags:       [xss, cross site scripting, exploit-db]
+---
