@@ -5,7 +5,7 @@
 header_pages:
   - index.md
   - about.md
-footer: 'contact me on <a href="https://twitter.com/tufan_gngr">twitter</a> , <a href="https://www.linkedin.com/in/tufangungor1/">linkedin</a> , <a href="mailto:tufan.gngr@gmail.com?Subject=--" target="_top">tufan.gngr@gmail.com</a>'
+footer: 'contact me on <a href="https://twitter.com/tufan_gngr">twitter</a> - <a href="https://www.linkedin.com/in/tufangungor1/">linkedin</a> - <a href="mailto:tufan.gngr@gmail.com?Subject=--" target="_top">tufan.gngr@gmail.com</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
