@@ -11,5 +11,5 @@ permalink: /about
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now i am member of <a href="https://www.hummingbirdscyberteam.com" target="_blank">Hummingbirds Cyber Team</a> and  I am working as a cyber security researcher at one of the cyber security companies in Turkey. I also do back-end development (python, django), front-end development (js, jquery,html,css) and pentest.<br><br><br> 
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I try to learn everything about cyber security in general but I especially like to study web security, cryptography and low level languages. So in my spare time, I try to solve ctf questions and hack vulnerable machines.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I try to learn everything about cyber security in general but I especially like to study web security, solve ctf questions and hack vulnerable machines.
 </div>
