@@ -20,7 +20,7 @@ Description: Multiple stored cross-site scripting (XSS) vulnerabilities in Flare
 
 The user who can use these functions can steal other user cookies or redirect them to harmful sites.
 
-# Payload : \<script>alert()\</script>
+# Payload : \<script>alert("project")\</script>
 
 ![Creating project](new_project.png)
 ![Trigger XSS](xss_trigger.png)
