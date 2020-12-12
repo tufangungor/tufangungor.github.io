@@ -8,7 +8,7 @@ tags:       [xss, cross site scripting, exploit-db]
 ---
 # FlarePoint DaybydayCRM - Multiple Stored XSS 
 # Version : 2.1.0
-# Date: 17.01.2020
+# Date: 12.12.2020
 # Vendor : [https://daybydaycrm.com](https://daybydaycrm.com)
 # CVE : N-A
 
