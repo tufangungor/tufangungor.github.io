@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      FlarePoint DaybydayCRM
+title:      FlarePoint DaybydayCRM - Multiple Stored XSS
 date:       2020-12-12
 author:     "Tufan Gungor"
 permalink:  /0days
