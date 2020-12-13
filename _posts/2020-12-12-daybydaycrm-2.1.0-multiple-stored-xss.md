@@ -22,5 +22,5 @@ The user who can use these functions can steal other user cookies or redirect th
 
 # Payload : \<script>alert("project")\</script>
 
-![Creating project](new_project.png)
-![Trigger XSS](xss_trigger.png)
+![Creating project](/images/new_project.png)
+![Trigger XSS](/images/xss_trigger.png)
