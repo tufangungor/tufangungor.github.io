@@ -1,9 +1,9 @@
 ---
-layout:     page
+layout:     post
 title:      FlarePoint DaybydayCRM - Multiple Stored XSS
 date:       2020-12-12
 author:     "Tufan Gungor"
-permalink:  /0days
+category:   exploit
 tags:       [xss, cross site scripting, exploit-db]
 ---
 # FlarePoint DaybydayCRM - Multiple Stored XSS 
