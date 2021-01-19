@@ -10,7 +10,7 @@ tags:       [xss, cross site scripting, exploit-db]
 # Version : 2.1.0
 # Date: 12.12.2020
 # Vendor : [https://daybydaycrm.com](https://daybydaycrm.com)
-# CVE : N-A
+# CVE : CVE-2020-35704, CVE-2020-35705, CVE-2020-35706, CVE-2020-35707
 
 Description: Multiple stored cross-site scripting (XSS) vulnerabilities in FlarePoint DaybydayCRM, allow remote attackers to inject arbitrary web script or HTML. 
 	1- New Lead - Title parameter,
